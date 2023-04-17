@@ -1,0 +1,11 @@
+C:\Users\Creas\source\repos\raz_c#_projects\KronometreUygulamasi\KronometreUygulamasi\KronometreUygulamasi\bin\Debug\KronometreUygulamasi.exe.config
+C:\Users\Creas\source\repos\raz_c#_projects\KronometreUygulamasi\KronometreUygulamasi\KronometreUygulamasi\bin\Debug\KronometreUygulamasi.exe
+C:\Users\Creas\source\repos\raz_c#_projects\KronometreUygulamasi\KronometreUygulamasi\KronometreUygulamasi\bin\Debug\KronometreUygulamasi.pdb
+C:\Users\Creas\source\repos\raz_c#_projects\KronometreUygulamasi\KronometreUygulamasi\KronometreUygulamasi\obj\Debug\KronometreUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Creas\source\repos\raz_c#_projects\KronometreUygulamasi\KronometreUygulamasi\KronometreUygulamasi\obj\Debug\KronometreUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Creas\source\repos\raz_c#_projects\KronometreUygulamasi\KronometreUygulamasi\KronometreUygulamasi\obj\Debug\KronometreUygulamasi.Form1.resources
+C:\Users\Creas\source\repos\raz_c#_projects\KronometreUygulamasi\KronometreUygulamasi\KronometreUygulamasi\obj\Debug\KronometreUygulamasi.Properties.Resources.resources
+C:\Users\Creas\source\repos\raz_c#_projects\KronometreUygulamasi\KronometreUygulamasi\KronometreUygulamasi\obj\Debug\KronometreUygulamasi.csproj.GenerateResource.cache
+C:\Users\Creas\source\repos\raz_c#_projects\KronometreUygulamasi\KronometreUygulamasi\KronometreUygulamasi\obj\Debug\KronometreUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Creas\source\repos\raz_c#_projects\KronometreUygulamasi\KronometreUygulamasi\KronometreUygulamasi\obj\Debug\KronometreUygulamasi.exe
+C:\Users\Creas\source\repos\raz_c#_projects\KronometreUygulamasi\KronometreUygulamasi\KronometreUygulamasi\obj\Debug\KronometreUygulamasi.pdb

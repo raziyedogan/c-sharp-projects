@@ -1,0 +1,11 @@
+C:\Users\Creas\source\repos\raz_c#_projects\kronometre_uygulamasi\kronometre_uygulamasi\bin\Debug\kronometre_uygulamasi.exe.config
+C:\Users\Creas\source\repos\raz_c#_projects\kronometre_uygulamasi\kronometre_uygulamasi\bin\Debug\kronometre_uygulamasi.exe
+C:\Users\Creas\source\repos\raz_c#_projects\kronometre_uygulamasi\kronometre_uygulamasi\bin\Debug\kronometre_uygulamasi.pdb
+C:\Users\Creas\source\repos\raz_c#_projects\kronometre_uygulamasi\kronometre_uygulamasi\obj\Debug\kronometre_uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Creas\source\repos\raz_c#_projects\kronometre_uygulamasi\kronometre_uygulamasi\obj\Debug\kronometre_uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Creas\source\repos\raz_c#_projects\kronometre_uygulamasi\kronometre_uygulamasi\obj\Debug\kronometre_uygulamasi.Form1.resources
+C:\Users\Creas\source\repos\raz_c#_projects\kronometre_uygulamasi\kronometre_uygulamasi\obj\Debug\kronometre_uygulamasi.Properties.Resources.resources
+C:\Users\Creas\source\repos\raz_c#_projects\kronometre_uygulamasi\kronometre_uygulamasi\obj\Debug\kronometre_uygulamasi.csproj.GenerateResource.cache
+C:\Users\Creas\source\repos\raz_c#_projects\kronometre_uygulamasi\kronometre_uygulamasi\obj\Debug\kronometre_uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Creas\source\repos\raz_c#_projects\kronometre_uygulamasi\kronometre_uygulamasi\obj\Debug\kronometre_uygulamasi.exe
+C:\Users\Creas\source\repos\raz_c#_projects\kronometre_uygulamasi\kronometre_uygulamasi\obj\Debug\kronometre_uygulamasi.pdb

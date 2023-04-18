@@ -1,0 +1,11 @@
+C:\Users\Creas\source\repos\raz_c#_projects\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\bin\Debug\web_servis_ile_veri_çekme.exe.config
+C:\Users\Creas\source\repos\raz_c#_projects\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\bin\Debug\web_servis_ile_veri_çekme.exe
+C:\Users\Creas\source\repos\raz_c#_projects\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\bin\Debug\web_servis_ile_veri_çekme.pdb
+C:\Users\Creas\source\repos\raz_c#_projects\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\obj\Debug\web_servis_ile_veri_çekme.csproj.AssemblyReference.cache
+C:\Users\Creas\source\repos\raz_c#_projects\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\obj\Debug\web_servis_ile_veri_çekme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Creas\source\repos\raz_c#_projects\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\obj\Debug\web_servis_ile_veri_çekme.Form1.resources
+C:\Users\Creas\source\repos\raz_c#_projects\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\obj\Debug\web_servis_ile_veri_çekme.Properties.Resources.resources
+C:\Users\Creas\source\repos\raz_c#_projects\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\obj\Debug\web_servis_ile_veri_çekme.csproj.GenerateResource.cache
+C:\Users\Creas\source\repos\raz_c#_projects\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\obj\Debug\web_servis_ile_veri_çekme.csproj.CoreCompileInputs.cache
+C:\Users\Creas\source\repos\raz_c#_projects\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\obj\Debug\web_servis_ile_veri_çekme.exe
+C:\Users\Creas\source\repos\raz_c#_projects\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\web_servis_ile_veri_çekme\obj\Debug\web_servis_ile_veri_çekme.pdb

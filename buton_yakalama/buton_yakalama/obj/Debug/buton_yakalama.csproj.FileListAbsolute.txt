@@ -1,0 +1,11 @@
+C:\Users\Creas\source\repos\raz_c#_projects\buton_yakalama_oyunu\buton_yakalama\buton_yakalama\bin\Debug\buton_yakalama.exe.config
+C:\Users\Creas\source\repos\raz_c#_projects\buton_yakalama_oyunu\buton_yakalama\buton_yakalama\bin\Debug\buton_yakalama.exe
+C:\Users\Creas\source\repos\raz_c#_projects\buton_yakalama_oyunu\buton_yakalama\buton_yakalama\bin\Debug\buton_yakalama.pdb
+C:\Users\Creas\source\repos\raz_c#_projects\buton_yakalama_oyunu\buton_yakalama\buton_yakalama\obj\Debug\buton_yakalama.csproj.AssemblyReference.cache
+C:\Users\Creas\source\repos\raz_c#_projects\buton_yakalama_oyunu\buton_yakalama\buton_yakalama\obj\Debug\buton_yakalama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Creas\source\repos\raz_c#_projects\buton_yakalama_oyunu\buton_yakalama\buton_yakalama\obj\Debug\buton_yakalama.Form1.resources
+C:\Users\Creas\source\repos\raz_c#_projects\buton_yakalama_oyunu\buton_yakalama\buton_yakalama\obj\Debug\buton_yakalama.Properties.Resources.resources
+C:\Users\Creas\source\repos\raz_c#_projects\buton_yakalama_oyunu\buton_yakalama\buton_yakalama\obj\Debug\buton_yakalama.csproj.GenerateResource.cache
+C:\Users\Creas\source\repos\raz_c#_projects\buton_yakalama_oyunu\buton_yakalama\buton_yakalama\obj\Debug\buton_yakalama.csproj.CoreCompileInputs.cache
+C:\Users\Creas\source\repos\raz_c#_projects\buton_yakalama_oyunu\buton_yakalama\buton_yakalama\obj\Debug\buton_yakalama.exe
+C:\Users\Creas\source\repos\raz_c#_projects\buton_yakalama_oyunu\buton_yakalama\buton_yakalama\obj\Debug\buton_yakalama.pdb

@@ -1,0 +1,13 @@
+C:\Users\Creas\source\repos\raz_c#_projects\karekod_olusturma_okuma\karekod_olusturma_okuma\karekod_olusturma_okuma\obj\Debug\karekod_olusturma_okuma.csproj.AssemblyReference.cache
+C:\Users\Creas\source\repos\raz_c#_projects\karekod_olusturma_okuma\karekod_olusturma_okuma\karekod_olusturma_okuma\obj\Debug\karekod_olusturma_okuma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Creas\source\repos\raz_c#_projects\karekod_olusturma_okuma\karekod_olusturma_okuma\karekod_olusturma_okuma\obj\Debug\karekod_olusturma_okuma.Form1.resources
+C:\Users\Creas\source\repos\raz_c#_projects\karekod_olusturma_okuma\karekod_olusturma_okuma\karekod_olusturma_okuma\obj\Debug\karekod_olusturma_okuma.Properties.Resources.resources
+C:\Users\Creas\source\repos\raz_c#_projects\karekod_olusturma_okuma\karekod_olusturma_okuma\karekod_olusturma_okuma\obj\Debug\karekod_olusturma_okuma.csproj.GenerateResource.cache
+C:\Users\Creas\source\repos\raz_c#_projects\karekod_olusturma_okuma\karekod_olusturma_okuma\karekod_olusturma_okuma\obj\Debug\karekod_olusturma_okuma.csproj.CoreCompileInputs.cache
+C:\Users\Creas\source\repos\raz_c#_projects\karekod_olusturma_okuma\karekod_olusturma_okuma\karekod_olusturma_okuma\bin\Debug\karekod_olusturma_okuma.exe.config
+C:\Users\Creas\source\repos\raz_c#_projects\karekod_olusturma_okuma\karekod_olusturma_okuma\karekod_olusturma_okuma\bin\Debug\karekod_olusturma_okuma.exe
+C:\Users\Creas\source\repos\raz_c#_projects\karekod_olusturma_okuma\karekod_olusturma_okuma\karekod_olusturma_okuma\bin\Debug\karekod_olusturma_okuma.pdb
+C:\Users\Creas\source\repos\raz_c#_projects\karekod_olusturma_okuma\karekod_olusturma_okuma\karekod_olusturma_okuma\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Creas\source\repos\raz_c#_projects\karekod_olusturma_okuma\karekod_olusturma_okuma\karekod_olusturma_okuma\obj\Debug\karekod_olusturma_okuma.csproj.CopyComplete
+C:\Users\Creas\source\repos\raz_c#_projects\karekod_olusturma_okuma\karekod_olusturma_okuma\karekod_olusturma_okuma\obj\Debug\karekod_olusturma_okuma.exe
+C:\Users\Creas\source\repos\raz_c#_projects\karekod_olusturma_okuma\karekod_olusturma_okuma\karekod_olusturma_okuma\obj\Debug\karekod_olusturma_okuma.pdb

@@ -1,0 +1,11 @@
+C:\Users\Creas\source\repos\raz_c#_projects\Sayiyi_istenen_tabana_donusturme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Creas\source\repos\raz_c#_projects\Sayiyi_istenen_tabana_donusturme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Creas\source\repos\raz_c#_projects\Sayiyi_istenen_tabana_donusturme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Creas\source\repos\raz_c#_projects\Sayiyi_istenen_tabana_donusturme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Creas\source\repos\raz_c#_projects\Sayiyi_istenen_tabana_donusturme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Creas\source\repos\raz_c#_projects\Sayiyi_istenen_tabana_donusturme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Creas\source\repos\raz_c#_projects\Sayiyi_istenen_tabana_donusturme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Creas\source\repos\raz_c#_projects\Sayiyi_istenen_tabana_donusturme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Creas\source\repos\raz_c#_projects\Sayiyi_istenen_tabana_donusturme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Creas\source\repos\raz_c#_projects\Sayiyi_istenen_tabana_donusturme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Creas\source\repos\raz_c#_projects\Sayiyi_istenen_tabana_donusturme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

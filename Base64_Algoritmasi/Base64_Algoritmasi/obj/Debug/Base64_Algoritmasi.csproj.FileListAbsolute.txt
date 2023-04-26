@@ -1,0 +1,11 @@
+C:\Users\Creas\source\repos\raz_c#_projects\Base64_Algoritması_ile_Geri_Dönüşümlü_Şifreleme\Base64_Algoritmasi\Base64_Algoritmasi\bin\Debug\Base64_Algoritmasi.exe.config
+C:\Users\Creas\source\repos\raz_c#_projects\Base64_Algoritması_ile_Geri_Dönüşümlü_Şifreleme\Base64_Algoritmasi\Base64_Algoritmasi\bin\Debug\Base64_Algoritmasi.exe
+C:\Users\Creas\source\repos\raz_c#_projects\Base64_Algoritması_ile_Geri_Dönüşümlü_Şifreleme\Base64_Algoritmasi\Base64_Algoritmasi\bin\Debug\Base64_Algoritmasi.pdb
+C:\Users\Creas\source\repos\raz_c#_projects\Base64_Algoritması_ile_Geri_Dönüşümlü_Şifreleme\Base64_Algoritmasi\Base64_Algoritmasi\obj\Debug\Base64_Algoritmasi.csproj.AssemblyReference.cache
+C:\Users\Creas\source\repos\raz_c#_projects\Base64_Algoritması_ile_Geri_Dönüşümlü_Şifreleme\Base64_Algoritmasi\Base64_Algoritmasi\obj\Debug\Base64_Algoritmasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Creas\source\repos\raz_c#_projects\Base64_Algoritması_ile_Geri_Dönüşümlü_Şifreleme\Base64_Algoritmasi\Base64_Algoritmasi\obj\Debug\Base64_Algoritmasi.Form1.resources
+C:\Users\Creas\source\repos\raz_c#_projects\Base64_Algoritması_ile_Geri_Dönüşümlü_Şifreleme\Base64_Algoritmasi\Base64_Algoritmasi\obj\Debug\Base64_Algoritmasi.Properties.Resources.resources
+C:\Users\Creas\source\repos\raz_c#_projects\Base64_Algoritması_ile_Geri_Dönüşümlü_Şifreleme\Base64_Algoritmasi\Base64_Algoritmasi\obj\Debug\Base64_Algoritmasi.csproj.GenerateResource.cache
+C:\Users\Creas\source\repos\raz_c#_projects\Base64_Algoritması_ile_Geri_Dönüşümlü_Şifreleme\Base64_Algoritmasi\Base64_Algoritmasi\obj\Debug\Base64_Algoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\Creas\source\repos\raz_c#_projects\Base64_Algoritması_ile_Geri_Dönüşümlü_Şifreleme\Base64_Algoritmasi\Base64_Algoritmasi\obj\Debug\Base64_Algoritmasi.exe
+C:\Users\Creas\source\repos\raz_c#_projects\Base64_Algoritması_ile_Geri_Dönüşümlü_Şifreleme\Base64_Algoritmasi\Base64_Algoritmasi\obj\Debug\Base64_Algoritmasi.pdb

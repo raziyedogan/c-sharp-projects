@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="DLL_AjandaUygulaması">
+      <HintPath>..\..\DLL_AjandaUygulaması\DLL_AjandaUygulaması\bin\Debug\net6.0\DLL_AjandaUygulaması.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

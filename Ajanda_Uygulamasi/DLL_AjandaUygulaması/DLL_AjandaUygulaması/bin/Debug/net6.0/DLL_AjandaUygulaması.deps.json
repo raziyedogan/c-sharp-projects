@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DLL_AjandaUygulaması/1.0.0": {
+        "runtime": {
+          "DLL_AjandaUygulaması.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DLL_AjandaUygulaması/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

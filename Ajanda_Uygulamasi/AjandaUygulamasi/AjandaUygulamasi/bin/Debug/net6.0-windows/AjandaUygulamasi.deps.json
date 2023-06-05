@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AjandaUygulamasi/1.0.0": {
+        "dependencies": {
+          "DLL_AjandaUygulaması": "1.0.0.0"
+        },
+        "runtime": {
+          "AjandaUygulamasi.dll": {}
+        }
+      },
+      "DLL_AjandaUygulaması/1.0.0.0": {
+        "runtime": {
+          "DLL_AjandaUygulaması.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AjandaUygulamasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DLL_AjandaUygulaması/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\DLL_AjandaUygulaması\DLL_AjandaUygulaması\bin\Debug\net6.0\DLL_AjandaUygulaması.deps.json
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\DLL_AjandaUygulaması\DLL_AjandaUygulaması\bin\Debug\net6.0\DLL_AjandaUygulaması.dll
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\DLL_AjandaUygulaması\DLL_AjandaUygulaması\bin\Debug\net6.0\DLL_AjandaUygulaması.pdb
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\DLL_AjandaUygulaması\DLL_AjandaUygulaması\obj\Debug\net6.0\DLL_AjandaUygulaması.csproj.AssemblyReference.cache
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\DLL_AjandaUygulaması\DLL_AjandaUygulaması\obj\Debug\net6.0\DLL_AjandaUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\DLL_AjandaUygulaması\DLL_AjandaUygulaması\obj\Debug\net6.0\DLL_AjandaUygulaması.AssemblyInfoInputs.cache
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\DLL_AjandaUygulaması\DLL_AjandaUygulaması\obj\Debug\net6.0\DLL_AjandaUygulaması.AssemblyInfo.cs
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\DLL_AjandaUygulaması\DLL_AjandaUygulaması\obj\Debug\net6.0\DLL_AjandaUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\DLL_AjandaUygulaması\DLL_AjandaUygulaması\obj\Debug\net6.0\DLL_AjandaUygulaması.dll
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\DLL_AjandaUygulaması\DLL_AjandaUygulaması\obj\Debug\net6.0\refint\DLL_AjandaUygulaması.dll
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\DLL_AjandaUygulaması\DLL_AjandaUygulaması\obj\Debug\net6.0\DLL_AjandaUygulaması.pdb
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\DLL_AjandaUygulaması\DLL_AjandaUygulaması\obj\Debug\net6.0\ref\DLL_AjandaUygulaması.dll
